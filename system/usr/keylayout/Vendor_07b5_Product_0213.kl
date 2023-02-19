@@ -1,0 +1,30 @@
+# Copyright (C) 2016 The Android Open Source Project
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+#
+# Thrustmaster, Mega World USB 2-Axis 8-Button Gamepad
+#
+
+key 304   BUTTON_A
+key 306   BUTTON_B
+key 305   BUTTON_X
+key 307   BUTTON_Y
+key 308   BUTTON_L1
+key 310   BUTTON_R1
+key 309   MEDIA_PLAY_PAUSE # Normally: BUTTON_L2
+key 311   HOME # Normally: BUTTON_R2
+
+# Left stick
+axis 0x00 X flat 4096
+axis 0x01 Y flat 4096
