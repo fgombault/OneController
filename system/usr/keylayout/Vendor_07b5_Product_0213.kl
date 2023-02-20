@@ -22,8 +22,8 @@ key 305   BUTTON_X
 key 307   BUTTON_Y
 key 308   BUTTON_L1
 key 310   BUTTON_R1
-key 309   MEDIA_PLAY_PAUSE # Normally: BUTTON_L2
-key 311   HOME # Normally: BUTTON_R2
+key 309   BUTTON_L2
+key 311   BUTTON_R2
 
 # Left stick
 axis 0x00 X flat 4096
